@@ -62,12 +62,12 @@ export default function Home() {
                   </div>
                   <div className="text-white">
                     <p>
-                    We've all been in the mud once, and now we've decided to fight it out. Pay tribute to those pioneers of WEB3 and the warriors who dedicated their love to the blockchain. Save the lucky ones alive, join us to save the future! Our mission is to empower everyone to share wealth and succeed. read more...
+                    We&apos;ve all been in the mud once&lsquo; and now we&apos;ve decided to fight it out. Pay tribute to those pioneers of WEB3 and the warriors who dedicated their love to the blockchain. Save the lucky ones alive&lasqou; join us to save the future! Our mission is to empower everyone to share wealth and succeed. read more...
                     </p>
                   </div>
               </div>
               <div>
-                <Image src="/images/introduction.png" width={200} height={200}/>
+                <Image src="/images/introduction.png" width={200} height={200} alt="intro"/>
               </div>
             </div>
           </div>
@@ -130,7 +130,7 @@ export default function Home() {
   <div className="w-9/12 border border-white mx-auto  max-w-full sm:max-w-[390px] xl:max-w-[1336px]  py-8">
    <div className="grid justify-center">
     <div className="flex justify-center items-center" style={{ width: "200px", height: "221px" }}>
-      <Image src="/images/Frame 1790.png" width={200} height={221} />
+      <Image src="/images/Frame 1790.png" width={200} height={221} alt="frame" />
       
     </div>
     <div><p className="font-poppins font-semibold text-white text-center text-2xl" style={{color:"red"}}>SITEMAP</p></div>
