@@ -18,7 +18,11 @@ module.exports = {
         borderColor: {
           customRed: '#ED0137',
         },
-
+        width:{
+           width300:"300px",
+          customWidth: "500px" /* Set the desired width */
+          
+        },
       colors: {
         customOrange: '#ED0137',
         customLightOrange: '#F05733',

@@ -31,7 +31,10 @@ body {
     text-wrap: balance;
   }
 } */
-
+body{
+  background-color: black;
+  margin:0
+}
 .main-section{
  background-image: url('../../public/images/firstImage.png');
   background-size:cover;
