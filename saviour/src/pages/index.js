@@ -217,7 +217,7 @@ export default function Home() {
               <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 p-10 items-center w-full">
   <div className="col-span-1">
     <Image
-      src="/images/link.png"
+      src="/images/Link.png"
       width={260}
       height={380}
       alt="Roadmap"
@@ -225,7 +225,7 @@ export default function Home() {
   </div>
   <div className="col-span-1">
     <Image
-      src="/images/link.png"
+      src="/images/Link (1).png"
       width={260}
       height={380}
       alt="Roadmap"
@@ -233,7 +233,7 @@ export default function Home() {
   </div>
   <div className="hidden lg:block col-span-1">
     <Image
-      src="/images/link.png"
+      src="/images/Link (2).png"
       width={260}
       height={380}
       alt="Roadmap"
@@ -241,7 +241,7 @@ export default function Home() {
   </div>
   <div className="hidden lg:block col-span-1">
     <Image
-      src="/images/link.png"
+      src="/images/Link (3).png"
       width={260}
       height={380}
       alt="Roadmap"
@@ -284,7 +284,6 @@ export default function Home() {
                             fill="none"
                             strokeLinecap="round"
                             strokeLinejoin="round"
-                            strokeWidth="2"
                             viewBox="0 0 24 24"
                             stroke="currentColor"
                           >
