@@ -12,6 +12,13 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+        textColor: {
+          customRed: '#ED0137',
+        },
+        borderColor: {
+          customRed: '#ED0137',
+        },
+
       colors: {
         customOrange: '#ED0137',
         customLightOrange: '#F05733',
