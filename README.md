@@ -1,10 +1,15 @@
 # Saviour
 
+## Introduction
+
+Saviour is a pioneering platform in blockchain technology, fostering innovation and investment opportunities. With a user-centric approach, Saviour empowers dreamers to achieve their goals and investors to find promising ventures. Join us to explore a world of growth and potential with Saviour.
+
 ## Tech Stack
 - NextJS
 - TailwindCSS
 
 ### saviour
+
 ├── README.md
 
 └── saviour/
@@ -102,7 +107,7 @@
 
 │   │   │   └── globals.css
 
-│   └── tailwind.config.js
+│   └── tailwind.config.js</>
 
 
 ## ScreenShots
