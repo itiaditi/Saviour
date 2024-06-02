@@ -278,7 +278,7 @@ export default function Home() {
                         onClick={() => setSelected(selected !== 1 ? 1 : null)}
                       >
                         <div className="flex font-shojumaru items-center justify-between">
-                          <span>Why choose "Savior"?</span>
+                          <span>Why choose &quot;Savior&quot;?</span>
                           <svg
                             className={`w-5 h-5 text-gray-500 ${selected === 1 ? 'transform rotate-180' : ''}`}
                             fill="none"
