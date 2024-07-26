@@ -9,105 +9,59 @@ Saviour is a pioneering platform in blockchain technology, fostering innovation 
 - TailwindCSS
 
 ### saviour
-
+```
+saviour
 ├── README.md
-
 └── saviour/
-
 │   ├── .eslintrc.json
-
 │   ├── .gitignore
-
 │   ├── README.md
-
 │   ├── jsconfig.json
-
 │   ├── next.config.mjs
-
 │   ├── package-lock.json
-
 │   ├── package.json
-
 │   ├── postcss.config.mjs
-
 │   ├── public/
-
 │   │   ├── favicon.ico
-
 │   │   ├── images/
-
 │   │   │   ├── Frame 1790.png
-
 │   │   │   ├── Frame 1824.png
-
 │   │   │   ├── Link (1).png
-
 │   │   │   ├── Link (2).png
-
 │   │   │   ├── Link (3).png
-
 │   │   │   ├── Link.png
-
 │   │   │   ├── firstImage.png
-
 │   │   │   ├── forthImage.png
-
 │   │   │   ├── image 1.png
-
 │   │   │   ├── introduction.png
-
 │   │   │   ├── logo.png
-
 │   │   │   ├── secondImage.png
-
 │   │   │   └── thirdImage.png
-
 │   │   ├── next.svg
-
 │   │   └── vercel.svg
-
 │   ├── src/
-
 │   │   ├── components/
-
 │   │   │   ├── Button.js
-
 │   │   │   ├── MainComponent.js
-
 │   │   │   ├── Navbar.js
-
 │   │   │   ├── Section.js
-
 │   │   │   └── Timer.js
-
 │   │   ├── hooks/
-
 │   │   │   └── useIntersectionObserver.js
-
 │   │   ├── lib/
-
 │   │   │   ├── config.js
-
 │   │   │   ├── layout.js
-
 │   │   │   └── wagmi-provide.js
-
 │   │   ├── pages/
 │   │   │   ├── _app.js
-
 │   │   │   ├── _document.js
-
 │   │   │   ├── api/
-
 │   │   │   │   └── hello.js
-
 │   │   │   └── index.js
-
 │   │   └── styles/
-
 │   │   │   └── globals.css
-
-│   └── tailwind.config.js</>
+│   └── tailwind.config.js
+```
 
 
 ## ScreenShots
